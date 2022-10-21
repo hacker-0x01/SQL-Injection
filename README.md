@@ -1,0 +1,2 @@
+# SQL-Injection
+💉SQL INJECTION SCANNER CONFIG
